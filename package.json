@@ -1,5 +1,5 @@
 {
-  "name": "@vinodk007/bvinodk-first-npm-package",
+  "name": "@vinodk007/bvinodk-first-npm-package-using-actions",
   "version": "1.0.0",
   "description": "publishing my first npm package",
   "main": "index.js",
