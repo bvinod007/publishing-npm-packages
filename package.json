@@ -1,0 +1,16 @@
+{
+  "name": "@vinodk007/bvinodk-first-npm-package",
+  "version": "1.0.0",
+  "description": "publishing my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "first",
+    "npm",
+    "package"
+  ],
+  "author": "bvinodkumar",
+  "license": "ISC"
+}
